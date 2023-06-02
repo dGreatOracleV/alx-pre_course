@@ -1,2 +1,3 @@
-This repo contains all the basic git syntax as I play around with git.
-Another update 
+This is my first interaction with git and github through the ALX 
+SE Program.
+I must say it has been fun.
